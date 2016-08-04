@@ -10,6 +10,8 @@ Install Node.js and then:
 git clone git://github.com/giannico/webpack-ts-ionic-starter-sidemenu
 cd webpack-ts-ionic-starter-sidemenu
 npm install
+npm install -g typings
+typings install
 npm run start
 ```
 
