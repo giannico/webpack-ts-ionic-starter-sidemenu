@@ -1,0 +1,34 @@
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# Client
+# ======================
+client_dev_output/
+server_dev_output/
+
+# Server
+# ======================
+
+
+# General
+# ======================
+.tmp/
+dist/
+node_modules/
+plugins
+build/
+plugins/
+typings/
+platforms/
+hooks/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
